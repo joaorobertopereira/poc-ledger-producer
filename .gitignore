@@ -1,5 +1,6 @@
 ### Kotlin template
 # Compiled class file
+.idea/
 .gradle/
 build/
 *.class
